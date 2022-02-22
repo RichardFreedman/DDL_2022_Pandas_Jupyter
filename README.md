@@ -1,13 +1,12 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RichardFreedman/CRIM_Public_Notebooks/HEAD?urlpath=lab)
 
-How to launch the **CRIM Intervals Notebook**:
+How to launch the **DDL 2022 Pandas and Jupyter Notebook**:
 
 1.  Click on the **Binder** link above and wait for this screen to appear in your browser:
 
 ![screenshot_2174](https://user-images.githubusercontent.com/4398776/124515530-b0c95f80-ddad-11eb-9ccb-29ebff210089.png)
 
-2.  Open the "binder" folder, then launch the **1_CRIM_NB** (for **nGrams** and **Pattern Search**) or the **2_CRIM_NB** (for **Heat Maps** and **Network Graphs**) notebook by double-clicking:
-
+2.  Open the "binder" folder, then launch the **DDL_2022_Pandas Notebook** 
 
 ![screenshot_2405](https://user-images.githubusercontent.com/4398776/142744727-5cd759f8-fc81-475b-9643-b83a3f7e355f.png)
 

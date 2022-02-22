@@ -1,23 +1,21 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RichardFreedman/DDL_2022_Pandas_Jupyter/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FRichardFreedman%2FDDL_2022_Pandas_Jupyter%2Fblob%2Fmain%2FDDL_2022_Pandas_Jupyter.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RichardFreedman/DDL_2022_Pandas_Jupyter/HEAD)
 
 
 How to launch the **DDL 2022 Pandas and Jupyter Notebook**:
 
-1.  Click on the **Binder** link above and wait for this screen to appear in your browser:
+1.  Click on the **Binder** link above and wait for this screen to appear in your browser, then double-click to launch the **DDL_2022_Pandas Notebook** 
 
-![screenshot_2174](https://user-images.githubusercontent.com/4398776/124515530-b0c95f80-ddad-11eb-9ccb-29ebff210089.png)
-
-2.  Open the "binder" folder, then launch the **DDL_2022_Pandas Notebook** 
-
-![screenshot_2405](https://user-images.githubusercontent.com/4398776/142744727-5cd759f8-fc81-475b-9643-b83a3f7e355f.png)
+![screenshot_2631](https://user-images.githubusercontent.com/4398776/155041217-9514f1e0-0107-48d2-9a7a-c7623202ecb2.png)
 
 
-3. Open the **Table of Contents** area (as shown at left below) to navigate to various portions of the Notebook.
 
-![screenshot_2231](https://user-images.githubusercontent.com/4398776/126180906-a9297690-0bf7-4ac1-9e3e-22aed57e1ada.png)
+2. Open the **Table of Contents** area (as shown at left below) to navigate to various portions of the Notebook.
+
+![screenshot_2633](https://user-images.githubusercontent.com/4398776/155041222-bd3b13ae-f869-422f-90b7-635244917782.png)
 
 
-4. To run various Notebook cells, use **Shift+Enter**, or the **Run** menu at top of the Notebook
 
-5.  **Note**:  the Binder Notebook will need to be restarted after 10 minutes of inactivity.
+3. To run various Notebook cells, use **Shift+Enter**, or the **Run** menu at top of the Notebook
+
+4.  **Note**:  the Binder Notebook will need to be restarted after 10 minutes of inactivity.
 

@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RichardFreedman/DDL_2022_Pandas_Jupyter/HEAD?labpath=https%3A%2F%2Fgithub.com%2FRichardFreedman%2FDDL_2022_Pandas_Jupyter%2Fblob%2Fmain%2FDDL_2022_Pandas_Jupyter.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RichardFreedman/DDL_2022_Pandas_Jupyter/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FRichardFreedman%2FDDL_2022_Pandas_Jupyter%2Fblob%2Fmain%2FDDL_2022_Pandas_Jupyter.ipynb)
 
 
 How to launch the **DDL 2022 Pandas and Jupyter Notebook**:

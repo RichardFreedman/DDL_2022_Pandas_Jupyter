@@ -4,3 +4,4 @@ folium==0.12.1
 numpy==1.20.2
 community==1.0.0b1
 DateTime==4.4
+pyvis==0.1.9

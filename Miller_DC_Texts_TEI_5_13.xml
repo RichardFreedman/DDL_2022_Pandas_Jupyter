@@ -854,26 +854,27 @@
                     <l>Ne craignez point que demeurɇ affollée</l>
                     <l>Pour endurer un mal si doucement.</l>
                 </lg>
-
-                <div xml:id="DC0307" type="poem" rhyme="ababbccdcd" met="10">
-
-                    <lg>
-                        <l>Du jeu d'aymer Martin fort curieux,</l>
-                        <l>Disoit un jour à sa dame rebelle,</l>
-                        <l>Comme diroit un pauvre langoureux,</l>
-                        <l>Cent mille fois je meurs pour vous la belle,</l>
-                        <l enjamb="weak">Puis s'approcha disant gente pucelle</l>
-                    </lg>
-
-                    <lg>
-                        <l>Soustenez moy, car pour vous vois mourir:</l>
-                        <l>La garse prompte pour l'amy secourir</l>
-                        <l>Si l'embrassa, se monstrant fort constante,</l>
-                        <l>Car sans vouloir de son mal s'enquerir,</l>
-                        <l>Luy dict amy mourez je suis contente.</l>
-                    </lg>
-                </div>
             </div>
+
+            <div xml:id="DC0307" type="poem" rhyme="ababbccdcd" met="10">
+
+                <lg>
+                    <l>Du jeu d'aymer Martin fort curieux,</l>
+                    <l>Disoit un jour à sa dame rebelle,</l>
+                    <l>Comme diroit un pauvre langoureux,</l>
+                    <l>Cent mille fois je meurs pour vous la belle,</l>
+                    <l enjamb="weak">Puis s'approcha disant gente pucelle</l>
+                </lg>
+
+                <lg>
+                    <l>Soustenez moy, car pour vous vois mourir:</l>
+                    <l>La garse prompte pour l'amy secourir</l>
+                    <l>Si l'embrassa, se monstrant fort constante,</l>
+                    <l>Car sans vouloir de son mal s'enquerir,</l>
+                    <l>Luy dict amy mourez je suis contente.</l>
+                </lg>
+            </div>
+        
             <div xml:id="DC0308" type="poem" rhyme="ababbccdcd" met="10">
                 <lg>
                     <l>Faire ne puis sans dueil, et desplaisir,</l>
@@ -4840,7 +4841,7 @@
                     <l>Sont en tes mains, et n'y veux contredire.</l>
                 </lg>
             </div>
-            <div xml:id="DC1501" type="poem" rhyme="aabb" met="8">
+            <div xml:id="DC1501" type="poem" rhyme="aabba" met="8">
                 <lg>
                     <l>Laissés cela petit friant,</l>
                     <l>Vous m'y tourmentés tousjours tant</l>
@@ -4985,8 +4986,6 @@
                     <l>Je ne sçaurois en confort me remettre,</l>
                     <l>Dont prieray Dieu, que ce grand dueil efface,</l>
                     <l>De reconfort le seul autheur, et maistre.</l>
-                </lg>
-                <l met="4">Je le sçay bien.</l>
             </div>
             <div xml:id="DC1512" type="poem" rhyme="ababbccdcd" met="10">
                 <lg>
